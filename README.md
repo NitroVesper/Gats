@@ -1,6 +1,6 @@
 # Gats
-Gats remake, build, shoot, defense, Play with friends, fight and much more
-This is e Beta version.
+Gats remake, build, shoot, defense, Play with friends, fight and much more.
+This is in Alpha version.
 This is the private Source of gats Remake, made from 5 contributors!
 Please read GNU General Public License v3.0!
 
