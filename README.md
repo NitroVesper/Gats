@@ -13,5 +13,5 @@ This is the private Source of Gats Remake, made from 5 developers!
 Please read GNU General Public License v3.0!
 
 Developers:
-LightLord, NitroVesper, 9inety9ine, cheese, Peak.
+LightLord, NitroVesper, 9inety9ine, Cheese, Peak.
 
