@@ -1,6 +1,11 @@
 # Gats Remake Alpha Version 1.0.0
 Pick a gun, shoot, get powerups, play alongside friends and allies against the enemy in multiple modes.
 
+# Features
+- New guns
+- New Perks
+- New Modes
+
 # Version History
 
 Current Version: Alpha V1.0.0
